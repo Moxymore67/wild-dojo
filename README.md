@@ -4,9 +4,9 @@
 <h1>Summary</h1>
 <ol>
   <li><a href="https://github.com/Moxymore67/wild-dojo/tree/master/basics">
-    Basics n°1 (17/03/2019)</a>
+    Basics n°1 - 17/03/2019</a>
   </li>
   <li><a href="https://github.com/Moxymore67/wild-dojo/tree/master/basics-2">
-    Basics n°2 (19/03/2019)</a>
+    Basics n°2 - 19/03/2019</a>
   </li>
 </ol>  
