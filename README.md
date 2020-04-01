@@ -17,6 +17,6 @@
 <h2>SQL</h2>
 <ol>
   <li><a href="https://github.com/Moxymore67/wild-dojo/tree/master/sql/sql-advanced">
-    SQL Adavanced - 31/03/2020</a>
+    SQL Advanced - 31/03/2020</a>
   </li>
 </ol>
